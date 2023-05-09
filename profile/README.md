@@ -1,7 +1,7 @@
 # Carbon
 
 ## Our Purpose
-We strive to provide ease of access utilities and tools to every developer of the unblocking community, new or old! We want to help new developers and progress the community even further!
+We strive to provide ease of access utilities and tools to every developer of the unblocking community, new or old! We want to help developers and progress the community even further!
 
 ## Our Projects
 Our current Projects include:
