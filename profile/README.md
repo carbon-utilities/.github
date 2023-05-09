@@ -3,9 +3,6 @@
 ## Our Purpose
 We strive to provide ease of access utilities and tools to every developer of the unblocking community, new or old! We want to help new developers and progress the community even further!
 
-## Our Discord
-Join the Carbon discord at: https://discord.gg/e3bk2Vpays
-
 ## Our Projects
 Our current Projects include:
 ### Liberium
