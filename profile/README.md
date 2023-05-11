@@ -1,15 +1,14 @@
 # Carbon
+At Carbon, our purpose is to provide easy access utilities and tools to developers in the unblocking community, regardless of their experience. We are committed to supporting developers and advancing the community through our contributions.
 
-## Our Purpose
-We strive to provide ease of access utilities and tools to every developer of the unblocking community, new or old! We want to help developers and progress the community even further!
-
+Check out our site at [getcarbon.systems](https://getcarbon.systems)!
 ## Our Projects
 Our current Projects include:
 ### Liberium
-Liberium is a lightweight, open source, and free to use JS SDK made to make development simpler, more streamline, and more innovative!
+Liberium is a lightweight, open-source JS Library designed to simplify and streamline development processes. It is freely available for use and aims to foster innovation within the development community.
 ### Gitloaf
-Gitloaf is an open-source CDN powered by Node.js that serves files from GitHub with their correct Content-Type headers, unlike the normal GitHub raw content.
+Gitloaf is an open-source CDN powered by Node.js. It serves files from GitHub while ensuring the correct Content-Type headers are maintained, unlike the default GitHub raw content delivery.
 ### Silicon
-A useful, feature rich API with multiple endpoints for all of your desired needs. Still in development.
+ASilicon is a feature-rich API that is currently under development. It aims to provide multiple endpoints to fulfill a wide range of developer needs. We are actively working on enhancing its capabilities to cater to diverse requirements.
 ### Graphite
-Graphite is a feature rich SDK that allows for seamless integration and ease of access usage of localstorage, allowing for more than what localstorage can do alone.
+Graphite is an extended version of the localStorage API. It offers support for objects, arrays, and key-value storage, making it a versatile choice for data management. By expanding upon the functionality of localStorage, Graphite provides developers with greater flexibility and convenience.
